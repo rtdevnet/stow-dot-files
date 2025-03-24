@@ -1,4 +1,3 @@
-# This file is managed by `config-files-management` (Original: /Users/martijn/.zshrc)
 # Enable command auto-correction
 setopt CORRECT
 
